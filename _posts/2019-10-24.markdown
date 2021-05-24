@@ -1,0 +1,9 @@
+---
+title: 
+layout: post
+date: 2019-10-24 00:00:00
+---
+
+坐在窗边看看雨，也挺惬意的。
+
+![]({{site.cdnurl}}/assets/images/posts/2019/10.jpg)  
