@@ -2,14 +2,14 @@ title: "时间停止"
 author: "@anthony"
 description: ""
 baseurl: ""
-url: "https://dongxing.xin"
-email: "hello@codingcat.cn"
+url: "https://moments.dongxing.xin"
+email: "hello@dongxing.xin"
 permalink: "/:categories/:year/:month/:day.html"
 relative_permalinks: false
 paginate: 20
 paginate_path: "/page/:num/"
 timezone: Asia/Shanghai  # A list of all available values can be found at https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-# cdnurl: "http://cdn.mynux.cn"
+cdnurl: "https://storage.dongxing.xin/moments"
 
 highlighter: "rouge"
 markdown: "kramdown"
