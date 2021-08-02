@@ -1,5 +1,5 @@
 ---
-title: 
+title: 离开北京
 layout: post
 category: memories
 tags: [diary]
